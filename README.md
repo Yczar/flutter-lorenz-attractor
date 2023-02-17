@@ -1,5 +1,3 @@
-# flutter_lorenz_attractor
-
 # Flutter 3D Lorenz Attractor
 
 This is a Flutter application that draws a 3D visualization of the Lorenz Attractor. The visualization is created using custom painting and 3D transformations.
